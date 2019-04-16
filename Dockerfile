@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.1.12
+FROM gcr.io/etcd-development/etcd:latest
 MAINTAINER ericli @hotmail.com
